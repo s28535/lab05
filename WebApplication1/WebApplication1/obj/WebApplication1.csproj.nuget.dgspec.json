@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s28535\\Desktop\\lab05\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\s28535\\Desktop\\lab05\\lab05\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s28535\\Desktop\\lab05\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\s28535\\Desktop\\lab05\\lab05\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s28535\\Desktop\\lab05\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\s28535\\Desktop\\lab05\\lab05\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\s28535\\Desktop\\lab05\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\Users\\s28535\\Desktop\\lab05\\lab05\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\s28535\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s28535\\Desktop\\lab05\\WebApplication1\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\s28535\\Desktop\\lab05\\lab05\\WebApplication1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s28535\\AppData\\Roaming\\NuGet\\NuGet.Config",
